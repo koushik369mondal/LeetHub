@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/koushik369mondal/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0724-find-pivot-index](https://github.com/koushik369mondal/LeetHub/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/koushik369mondal/LeetHub/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/koushik369mondal/LeetHub/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
