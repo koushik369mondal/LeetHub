@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/koushik369mondal/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/koushik369mondal/LeetHub/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/koushik369mondal/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/koushik369mondal/LeetHub/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
@@ -33,4 +34,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/koushik369mondal/LeetHub/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/koushik369mondal/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/koushik369mondal/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
