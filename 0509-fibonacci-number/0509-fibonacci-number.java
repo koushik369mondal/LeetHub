@@ -3,9 +3,9 @@ class Solution {
         if(n==0 || n==1){
             return n;
         }
-        int fnm1 = fib(n-1);
-        int fnm2 = fib(n-2);
-        int fn = fnm1 + fnm2;
+        int f1 = fib(n-1);
+        int f2 = fib(n-2);
+        int fn = f1 + f2;
         return fn;
     }
 }
