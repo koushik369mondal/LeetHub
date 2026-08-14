@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/koushik369mondal/LeetHub/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/koushik369mondal/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/koushik369mondal/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/koushik369mondal/LeetHub/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koushik369mondal/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/koushik369mondal/LeetHub/tree/master/0724-find-pivot-index) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koushik369mondal/LeetHub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/koushik369mondal/LeetHub/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koushik369mondal/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koushik369mondal/LeetHub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/koushik369mondal/LeetHub/tree/master/3536-maximum-product-of-two-digits) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/koushik369mondal/LeetHub/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/koushik369mondal/LeetHub/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
