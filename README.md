@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/koushik369mondal/LeetHub/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/koushik369mondal/LeetHub/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koushik369mondal/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/koushik369mondal/LeetHub/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/koushik369mondal/LeetHub/tree/master/0724-find-pivot-index) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koushik369mondal/LeetHub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/koushik369mondal/LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/koushik369mondal/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/koushik369mondal/LeetHub/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
