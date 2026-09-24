@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/koushik369mondal/LeetHub/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/koushik369mondal/LeetHub/tree/master/1991-find-the-middle-index-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/koushik369mondal/LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/koushik369mondal/LeetHub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/koushik369mondal/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/koushik369mondal/LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/koushik369mondal/LeetHub/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/koushik369mondal/LeetHub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
 |  |
 | ------- |
