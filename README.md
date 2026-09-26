@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/koushik369mondal/LeetHub/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/koushik369mondal/LeetHub/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/koushik369mondal/LeetHub/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/koushik369mondal/LeetHub/tree/master/0509-fibonacci-number) |
