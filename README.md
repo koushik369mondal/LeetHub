@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/koushik369mondal/LeetHub/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/koushik369mondal/LeetHub/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/koushik369mondal/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/koushik369mondal/LeetHub/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/koushik369mondal/LeetHub/tree/master/0152-maximum-product-subarray) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/koushik369mondal/LeetHub/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/koushik369mondal/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/koushik369mondal/LeetHub/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/koushik369mondal/LeetHub/tree/master/0141-linked-list-cycle) |
