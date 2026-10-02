@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/koushik369mondal/LeetHub/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koushik369mondal/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/koushik369mondal/LeetHub/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2469-convert-the-temperature](https://github.com/koushik369mondal/LeetHub/tree/master/2469-convert-the-temperature) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/koushik369mondal/LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/koushik369mondal/LeetHub/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/koushik369mondal/LeetHub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
