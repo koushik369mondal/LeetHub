@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/koushik369mondal/LeetHub/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koushik369mondal/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/koushik369mondal/LeetHub/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1952-three-divisors](https://github.com/koushik369mondal/LeetHub/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/koushik369mondal/LeetHub/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/koushik369mondal/LeetHub/tree/master/2469-convert-the-temperature) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/koushik369mondal/LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -170,5 +171,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/koushik369mondal/LeetHub/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/koushik369mondal/LeetHub/tree/master/2413-smallest-even-multiple) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/koushik369mondal/LeetHub/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/koushik369mondal/LeetHub/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/koushik369mondal/LeetHub/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
