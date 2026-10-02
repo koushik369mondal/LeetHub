@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/koushik369mondal/LeetHub/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/koushik369mondal/LeetHub/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/koushik369mondal/LeetHub/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/koushik369mondal/LeetHub/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/koushik369mondal/LeetHub/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koushik369mondal/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/koushik369mondal/LeetHub/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/koushik369mondal/LeetHub/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/koushik369mondal/LeetHub/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/koushik369mondal/LeetHub/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/koushik369mondal/LeetHub/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/koushik369mondal/LeetHub/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/koushik369mondal/LeetHub/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/koushik369mondal/LeetHub/tree/master/2413-smallest-even-multiple) |
 ## Enumeration
