@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koushik369mondal/LeetHub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/koushik369mondal/LeetHub/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/koushik369mondal/LeetHub/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/koushik369mondal/LeetHub/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/koushik369mondal/LeetHub/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/koushik369mondal/LeetHub/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/koushik369mondal/LeetHub/tree/master/1929-concatenation-of-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/koushik369mondal/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/koushik369mondal/LeetHub/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/koushik369mondal/LeetHub/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1512-number-of-good-pairs](https://github.com/koushik369mondal/LeetHub/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/koushik369mondal/LeetHub/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/koushik369mondal/LeetHub/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/koushik369mondal/LeetHub/tree/master/2413-smallest-even-multiple) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/koushik369mondal/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/koushik369mondal/LeetHub/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koushik369mondal/LeetHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/koushik369mondal/LeetHub/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koushik369mondal/LeetHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/koushik369mondal/LeetHub/tree/master/1512-number-of-good-pairs) |
 ## Matrix
 |  |
 | ------- |
