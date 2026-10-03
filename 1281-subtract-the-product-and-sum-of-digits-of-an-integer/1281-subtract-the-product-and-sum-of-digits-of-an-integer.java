@@ -8,7 +8,6 @@ class Solution {
             sum += digit;
             n /= 10;
         }
-        int res = prod - sum;
-        return res;
+        return prod - sum;
     }
 }
