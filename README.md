@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/koushik369mondal/LeetHub/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/koushik369mondal/LeetHub/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/koushik369mondal/LeetHub/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/koushik369mondal/LeetHub/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/koushik369mondal/LeetHub/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/koushik369mondal/LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/koushik369mondal/LeetHub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
