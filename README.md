@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/koushik369mondal/LeetHub/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/koushik369mondal/LeetHub/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/koushik369mondal/LeetHub/tree/master/2469-convert-the-temperature) |
+| [2652-sum-multiples](https://github.com/koushik369mondal/LeetHub/tree/master/2652-sum-multiples) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/koushik369mondal/LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/koushik369mondal/LeetHub/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/koushik369mondal/LeetHub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
