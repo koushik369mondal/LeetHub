@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/koushik369mondal/LeetHub/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/koushik369mondal/LeetHub/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/koushik369mondal/LeetHub/tree/master/1952-three-divisors) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/koushik369mondal/LeetHub/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/koushik369mondal/LeetHub/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/koushik369mondal/LeetHub/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/koushik369mondal/LeetHub/tree/master/2427-number-of-common-factors) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/koushik369mondal/LeetHub/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koushik369mondal/LeetHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koushik369mondal/LeetHub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/koushik369mondal/LeetHub/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/koushik369mondal/LeetHub/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/koushik369mondal/LeetHub/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/koushik369mondal/LeetHub/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
