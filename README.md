@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/koushik369mondal/LeetHub/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/koushik369mondal/LeetHub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/koushik369mondal/LeetHub/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/koushik369mondal/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koushik369mondal/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/koushik369mondal/LeetHub/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/koushik369mondal/LeetHub/tree/master/0724-find-pivot-index) |
@@ -75,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/koushik369mondal/LeetHub/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/koushik369mondal/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/koushik369mondal/LeetHub/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/koushik369mondal/LeetHub/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/koushik369mondal/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/koushik369mondal/LeetHub/tree/master/0496-next-greater-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/koushik369mondal/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/koushik369mondal/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/koushik369mondal/LeetHub/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/koushik369mondal/LeetHub/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koushik369mondal/LeetHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/koushik369mondal/LeetHub/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/koushik369mondal/LeetHub/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
