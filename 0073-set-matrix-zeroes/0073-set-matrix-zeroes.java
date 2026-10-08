@@ -2,23 +2,23 @@ class Solution {
     public void setZeroes(int[][] matrix) {
         int m = matrix.length;
         int n = matrix[0].length;
-        int[][] copy = new int[m][n];
-        for(int i=0; i<m; i++){
-            for(int j=0; j<n; j++){
-                copy[i][j] = matrix[i][j];
-            }
-        }
-        for(int i=0; i<m; i++){
-            for(int j=0; j<n; j++){
-                if(copy[i][j] == 0){
-                    for(int k=0; k<n; k++){
-                        matrix[i][k] = 0;
-                    }
-                    for(int l=0; l<m; l++){
-                        matrix[l][j] = 0;
-                    }
+        boolean[] zeroRows = new boolean[m];
+        boolean[] zeroCols = new boolean[n];
+        for(int r=0; r<m; r++){
+            for(int c=0; c<n; c++){
+                if(matrix[r][c] == 0){
+                    zeroRows[r] = true;
+                    zeroCols[c] = true;
                 }
             }
         }
+        for(int r=0; r<m; r++){
+            for(int c=0; c<n; c++){
+                if(zeroRows[r] || zeroCols[c]){
+                    matrix[r][c] = 0;
+                }
+            }
+        }
+
     }
 }
