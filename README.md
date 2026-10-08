@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/koushik369mondal/LeetHub/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/koushik369mondal/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/koushik369mondal/LeetHub/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/koushik369mondal/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/koushik369mondal/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/koushik369mondal/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/koushik369mondal/LeetHub/tree/master/0169-majority-element) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/koushik369mondal/LeetHub/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/koushik369mondal/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/koushik369mondal/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/koushik369mondal/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/koushik369mondal/LeetHub/tree/master/0217-contains-duplicate) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/koushik369mondal/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/koushik369mondal/LeetHub/tree/master/1672-richest-customer-wealth) |
 ## Number Theory
 |  |
