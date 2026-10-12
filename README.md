@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/koushik369mondal/LeetHub/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/koushik369mondal/LeetHub/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/koushik369mondal/LeetHub/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/koushik369mondal/LeetHub/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/koushik369mondal/LeetHub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/koushik369mondal/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/koushik369mondal/LeetHub/tree/master/0496-next-greater-element-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/koushik369mondal/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/koushik369mondal/LeetHub/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/koushik369mondal/LeetHub/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/koushik369mondal/LeetHub/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koushik369mondal/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/koushik369mondal/LeetHub/tree/master/0905-sort-array-by-parity) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/koushik369mondal/LeetHub/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/koushik369mondal/LeetHub/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/koushik369mondal/LeetHub/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/koushik369mondal/LeetHub/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/koushik369mondal/LeetHub/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/koushik369mondal/LeetHub/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koushik369mondal/LeetHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/koushik369mondal/LeetHub/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/koushik369mondal/LeetHub/tree/master/0229-majority-element-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koushik369mondal/LeetHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/koushik369mondal/LeetHub/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/koushik369mondal/LeetHub/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -263,4 +267,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/koushik369mondal/LeetHub/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/koushik369mondal/LeetHub/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
