@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/koushik369mondal/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/koushik369mondal/LeetHub/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/koushik369mondal/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/koushik369mondal/LeetHub/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/koushik369mondal/LeetHub/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/koushik369mondal/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/koushik369mondal/LeetHub/tree/master/0152-maximum-product-subarray) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/koushik369mondal/LeetHub/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/koushik369mondal/LeetHub/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/koushik369mondal/LeetHub/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/koushik369mondal/LeetHub/tree/master/1929-concatenation-of-array) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/koushik369mondal/LeetHub/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/koushik369mondal/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/koushik369mondal/LeetHub/tree/master/1672-richest-customer-wealth) |
 ## Number Theory
