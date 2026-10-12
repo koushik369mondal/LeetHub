@@ -3,20 +3,18 @@ class Solution {
         int n = nums.length;
         // Arrays.sort(nums);
         // return nums[n/2];
-
-        // Optimal
-        int ans = 0;
         int count = 0;
+        int candidate = 0;
         for(int i=0; i<n; i++){
             if(count == 0){
-                ans = nums[i];
+                candidate = nums[i];
             }
-            if(ans == nums[i]){
+            if(nums[i] == candidate){
                 count++;
             }else{
                 count--;
             }
         }
-        return ans;
+        return candidate;
     }
 }
