@@ -9,23 +9,44 @@
  * }
  */
 class Solution {
+    public static ListNode findMid(ListNode head){
+        ListNode slow = head;
+        ListNode fast = head;
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
+    }
     public boolean isPalindrome(ListNode head) {
-        ListNode rev = null;
-        ListNode curr = head;
+        if(head == null || head.next == null){
+            return true;
+        }
+        ListNode midNode = findMid(head);
+        
+        // reverse 2nd half
+        ListNode prev = null;
+        ListNode curr = midNode;
+        ListNode next;
+        
         while(curr != null){
-          ListNode temp = new ListNode(curr.val);
-          temp.next = rev;
-          rev = temp;
-          curr = curr.next;
+            next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
         }
 
-        curr = head;
-        while(curr != null) {
-            if(curr.val != rev.val) return false;
-            curr = curr.next;
-            rev = rev.next;
-        }
+        ListNode right = prev; //right half head
+        ListNode left = head;
 
+        // check left half and right half
+        while(right != null){
+            if(left.val != right.val){
+                return false;
+            }
+            left = left.next;
+            right = right.next;
+        }
         return true;
     }
 }
