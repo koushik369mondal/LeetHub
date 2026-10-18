@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/koushik369mondal/LeetHub/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/koushik369mondal/LeetHub/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/koushik369mondal/LeetHub/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2404-most-frequent-even-element](https://github.com/koushik369mondal/LeetHub/tree/master/2404-most-frequent-even-element) |
 | [2460-apply-operations-to-an-array](https://github.com/koushik369mondal/LeetHub/tree/master/2460-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/koushik369mondal/LeetHub/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/koushik369mondal/LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koushik369mondal/LeetHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/koushik369mondal/LeetHub/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/koushik369mondal/LeetHub/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2404-most-frequent-even-element](https://github.com/koushik369mondal/LeetHub/tree/master/2404-most-frequent-even-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/koushik369mondal/LeetHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/koushik369mondal/LeetHub/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/koushik369mondal/LeetHub/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2404-most-frequent-even-element](https://github.com/koushik369mondal/LeetHub/tree/master/2404-most-frequent-even-element) |
 ## Matrix
 |  |
 | ------- |
